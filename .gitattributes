@@ -1,0 +1,4 @@
+x86_64/heroic-bin-2.5.2_1.x86_64.xbps filter=lfs diff=lfs merge=lfs -text
+x86_64/heroic-bin-2.5.2_1.x86_64.xbps.sig filter=lfs diff=lfs merge=lfs -text
+x86_64/brave-bin-1.46.144_1.x86_64.xbps filter=lfs diff=lfs merge=lfs -text
+x86_64/brave-bin-1.46.144_1.x86_64.xbps.sig filter=lfs diff=lfs merge=lfs -text
